@@ -27,7 +27,7 @@ It allows users to:
 ## How to Compile & Run via Command Line (Optional)
 ```sh
 cd src/atm
-javac *.java
+javac atm\*.java
 java atm.ATMApp
 ```
 
