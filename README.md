@@ -104,7 +104,7 @@ All deposits and withdrawals are recorded as transactions.
    ```  
 
 📸 Sample Output
-
+  ```
 
 === Welcome to ATM ===
 1. Create Account
@@ -130,6 +130,7 @@ Enter choice: 1
 Enter deposit amount: 5000
 ✅ Deposit successful! Balance: 5000
 
+  ```
 
 🎯 Learning Outcomes
 
