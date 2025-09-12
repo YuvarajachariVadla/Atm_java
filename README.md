@@ -41,8 +41,9 @@ IDE: Eclipse / VS Code
 
 Version Control: Git & GitHub
 
-📂 Project Structure
+## 📂 Project Structure
 
+```
 ATM_Java_Project/
 │── src/
 │   └── atm/
@@ -54,6 +55,8 @@ ATM_Java_Project/
 │       ├── Transaction.java
 │       └── TransactionType.java
 │── README.md
+
+```
 
 
 🔑 How It Works
@@ -80,23 +83,25 @@ All deposits and withdrawals are recorded as transactions.
 
 ▶️ How to Run the Project
 1. Clone the Repository
-
+  ```
    git clone https://github.com/your-username/atm-java.git
 
    cd atm-java
+  ```
 
 3. Compile the Code
-
+    
     Navigate to src folder:
+     ```
 
     cd src/atm
-
+     
     javac *.java
-
+    ```
 3. Run the Project
-   
+   ```
       java ATMApp
-  
+   ```  
 
 📸 Sample Output
 
